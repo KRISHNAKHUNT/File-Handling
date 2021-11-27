@@ -9,9 +9,9 @@ Which consists of a list of lines.
 Now write a for loop condition.
 Using for loop we traverse through every file from files.
 The we spilt the filename and extension of the file.
-We only need an extansion name so we remove the dot from the extension through slicing.
+We only need an extension name so we remove the dot from the extension through slicing.
 And then we need write to if statement.
 If the extension directly already exits, then we move the file to that directory.
 In else statement we make a new directory and then we move the file into it.
 At the last lets runs the program......
-After that you get your all saparate file in their respactive folder............
+After that you get your all separate file in their respective folder............
